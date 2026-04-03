@@ -7,4 +7,4 @@ This is my github repository where I put all the software projects I develop to 
 - 👯 I’m looking to collaborate on open source software.
 - 📫 How to reach me: siddharth.varute@gmail.com
 - 😄 Pronouns: He/Him
-- 🐘 <a rel="me" href="https://mastodon.social/@sid199624">Mastodon</a>
+- 🐘 <a rel="me" href="https://mastodon.social/@sid199624">@sid199624@mastodon.social</a>
